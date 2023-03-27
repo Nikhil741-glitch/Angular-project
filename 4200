@@ -1,0 +1,19 @@
+? Port 4200 is already in use.
+Would you like to use a different port? (Y/n) [46D[46C[2K[1A[2K[G? Port 4200 is already in use.
+Would you like to use a different port? Yes[43D[43C
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   2.04 MB |
+polyfills.js          | polyfills     | 314.30 kB |
+styles.css, styles.js | styles        | 209.43 kB |
+main.js               | main          |  10.40 kB |
+runtime.js            | runtime       |   6.54 kB |
+
+| Initial Total |   2.57 MB
+
+Build at: 2023-03-23T12:26:17.621Z - Hash: eccbf0f271a92fe8 - Time: 4008ms
+
+** Angular Live Development Server is listening on localhost:37597, open your browser on http://localhost:37597/ **
+
+
+✔ Compiled successfully.
